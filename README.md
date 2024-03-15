@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @YadIsDev
 - 👀 I’m interested in getting better at programming
 - 🌱 I’m currently learning Java and Python
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: dc: _ yad _
 - 😄 Pronouns: I'm a man
 - ⚡ Fun fact: I don't like margarina, I prefer the taste of butter
